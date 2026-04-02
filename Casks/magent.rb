@@ -9,6 +9,11 @@ cask "magent" do
 
   app "Magent.app"
 
+  preflight do
+    system_command "/usr/bin/xattr",
+                   args: ["-cr", "#{staged_path}/Magent.app"]
+  end
+
   postflight do
     system_command "/usr/bin/xattr",
                    args: ["-cr", "#{appdir}/Magent.app"],
