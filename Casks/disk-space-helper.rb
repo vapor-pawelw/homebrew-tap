@@ -18,6 +18,6 @@ cask "disk-space-helper" do
   end
 
   zap trash: [
-    "~/Library/Preferences/com.pawelw.DiskSpaceHelper.plist",
+    "~/Library/Preferences/com.vaporpw.DiskSpaceHelper.plist",
   ]
 end
