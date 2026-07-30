@@ -1,8 +1,8 @@
 cask "magent" do
-  version "1.6.5"
-  sha256 "9326c720f34cabead5023f9ce96aad5d0ea9a92f532eb915899033e98534c710"
+  version "1.7.0"
+  sha256 "c0cab52c38d5ddb7dc9aad5e9bb4a55345568c8719151f1de3524ed7c855ec42"
 
-  url "https://github.com/vapor-pawelw/mAgent/releases/download/v1.6.5/Magent.dmg"
+  url "https://github.com/vapor-pawelw/mAgent/releases/download/v1.7.0/Magent.dmg"
   name "mAgent"
   desc "Native macOS app for managing coding agents as parallel git worktree sessions"
   homepage "https://github.com/vapor-pawelw/mAgent"
