@@ -1,6 +1,6 @@
 cask "disk-space-helper" do
-  version "2.0.0"
-  sha256 "ce5dde0b54610f5e0e28ec7e4d02ee04695f3b39f2cd514c18cb67fe2c42a25c"
+  version "2.1.0"
+  sha256 "ae285ec2188a772ef2bd5b2972aed0936a0f2a10377640e6df5f9f94a1f9697c"
 
   url "https://github.com/vapor-pawelw/disk-space-helper/releases/download/v2.0.0/DiskSpaceHelper.dmg"
   name "Disk Space Helper"
