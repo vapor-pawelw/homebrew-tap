@@ -1,8 +1,8 @@
 cask "disk-space-helper" do
-  version "2.1.1"
-  sha256 "78ab3e11b3cef7ac70622d31eb3088f0f42f4dc41158dfa8457548bbafac059c"
+  version "2.1.2"
+  sha256 "ffe9c63904e2002b5c288e38e625c3071c06984e8d6d04d8466ea198791c01e2"
 
-  url "https://github.com/vapor-pawelw/disk-space-helper/releases/download/v2.1.1/DiskSpaceHelper.dmg"
+  url "https://github.com/vapor-pawelw/disk-space-helper/releases/download/v2.1.2/DiskSpaceHelper.dmg"
   name "Disk Space Helper"
   desc "Lightweight macOS menu bar utility that monitors disk space"
   homepage "https://github.com/vapor-pawelw/disk-space-helper"
