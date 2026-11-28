@@ -1,8 +1,8 @@
 cask "mergetether" do
-  version "2.0.0"
-  sha256 "5e2c71cc8bf087767e46bbc644539a5a3585d2735e782f6e1ca590f9bc06f741"
+  version "2.0.1"
+  sha256 "6abb32505feb439e6eeaa2ea1acf1fafc10309d5ffee995f9a0dcc9a5c208347"
 
-  url "https://github.com/vapor-pawelw/merge-tether/releases/download/v2.0.0/MergeTether.dmg"
+  url "https://github.com/vapor-pawelw/merge-tether/releases/download/v2.0.1/MergeTether.dmg"
   name "MergeTether"
   desc "Menu-bar app that surfaces your GitLab to-do inbox via the glab CLI"
   homepage "https://github.com/vapor-pawelw/merge-tether"
